@@ -480,9 +480,10 @@ color: #1eff50;
     position: absolute;
     left: 0;
     margin: 5px;
-    width: 300px;
+    width: 270px;
     text-shadow: 4px 1px 5px white;
     color: black;
+     text-align: justify;
 }
  /* ? media img-info list */
     .landing .my-info 
@@ -1571,6 +1572,7 @@ height: 5px;
 @media (max-width:767px){
    .events .container .subscrib-email{
     padding: 0;
+    width: 400px;
    }
 }
 .events .container .subscrib-email form{
