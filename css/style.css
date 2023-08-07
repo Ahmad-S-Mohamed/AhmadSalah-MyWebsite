@@ -1578,6 +1578,7 @@ height: 5px;
     .events .container .subscrib-email form{
     gap: 5px;
         justify-content: center;
+            flex-direction: column;
 }
 }
 .events .container .subscrib-email form{
