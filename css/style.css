@@ -1572,9 +1572,11 @@ height: 5px;
 @media (max-width:767px){
    .events .container .subscrib-email{
     padding: 0;
-    width: fit-content;
-       
+    width: 300px;       
    }
+    .events .container .subscrib-email form{
+    gap: 5px;
+}
 }
 .events .container .subscrib-email form{
     display: flex;
